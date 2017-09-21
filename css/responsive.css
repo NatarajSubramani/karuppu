@@ -1,0 +1,213 @@
+@media only screen and (max-width: 767px) {
+	.header-top {
+    position: relative;
+}
+ .mainmenu .navbar-toggle {
+    position: unset;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: #ffc20e;
+    background-image: none;
+    border: 1px solid #f8bd0f;
+    border-radius: 4px;
+    z-index: 1;
+    right: 0;
+    top: -70px;
+}
+.with-nav-tabs.panel-default .panel-body {
+    padding: 15px;
+    overflow-y: scroll;
+}
+.content-shows h1, .item-content h1 {
+    margin: 0 auto;
+    padding: 16px;
+    font-size: 22px;
+    font-family: 'roboto',sans-serif;
+    width: 100%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.content-shows .span2 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    line-height: 0;
+}
+.carousel-control {
+    position: absolute;
+    top: 28%;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    font-size: 54px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+.span2.pull-right {
+    text-align: center;
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+.panel.with-nav-tabs .panel-heading .nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+    width: 100%;
+}
+.tab-section .panel-heading {
+    padding: 0px 0px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.tab-section .panel.with-nav-tabs .panel-heading .nav-tabs>li>a {
+    margin-right: 0px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 0px 0px 0 0;
+	cursor:pointer;
+}
+
+/* ===Top==== */
+.header-top .logo {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    z-index: 12;
+    float: left;
+}
+.mainmenu {
+    float: left;
+    width: 100%;
+    margin-top: 3%;
+    position: absolute;
+    z-index: 10;
+    right: 0;
+    top: 10px;
+}
+.mainmenu nav.navbar.navbar-inverse {
+    background: none;
+    border: none;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+}
+#myNavbar ul.nav.navbar-nav {
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+}
+#myNavbar .nav.navbar-nav li {
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+}
+#custom-search-form {
+    margin: 0;
+    margin-top: 9px;
+    padding: 0;
+    width: 100%;
+    float: left;
+}
+.mainmenu .navbar-nav li button.btn.btn-primary {
+    font-family: 'roboto',sans-serif;
+    font-size: 14px;
+    width: 100%;
+    margin: 0 auto;
+}
+.navbar-inverse div#myNavbar {
+    margin-top: 5% !important;
+    padding: 15px !important;
+    float: left;
+    width: 100%;
+    background-color: rgba(243, 243, 243, 0.94);
+    border: 1px solid #ffc20e;
+}
+#custom-search-form .search-query {
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 27px;
+    padding-left: 4px \9;
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 0px;
+    -webkit-transition: width 0.5s ease-in-out;
+    -moz-transition: width 0.5s ease-in-out;
+    -o-transition: width 0.5s ease-in-out;
+    transition: width 0.5s ease-in-out;
+    border-bottom: 2px solid #FFC20E;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+    color: #444;
+    width: 100%;
+}
+#custom-search-form button {
+    border: 0;
+    background: none;
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    top: -4px;
+    transform: rotate(90deg);
+    color: white;
+    left: 0;
+}
+    
+}
+@media only screen and (max-width: 1024px) {
+	.tab-section .panel.with-nav-tabs .panel-heading .nav-tabs>li>a {
+    margin-right: 0px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 0px 0px 0 0;
+	cursor:pointer;
+}
+.panel.with-nav-tabs .panel-heading .nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+    width: 100%;
+}
+.tab-section .panel-heading {
+    padding: 0px 0px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.with-nav-tabs.panel-default .panel-body {
+    padding: 15px;
+    overflow-y: scroll;
+}
+.progress .progress-value {
+    position: relative;
+    left: -27px;
+    top: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: 2px;
+}
+.tab-section .perform-funding {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+}
+

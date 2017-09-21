@@ -1,0 +1,405 @@
+{
+                "fundOverview": [{
+                                "Rank": 1,
+                                "Fund": "7IM AAP Adventurous C Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 21.051114,
+                                "3Y": 31.467272,
+                                "5Y": 55.113164,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 2,
+								"Fund": "7IM AAP Balanced C Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.684609,
+                                "3Y": 20.666394,
+                                "5Y": 32.058166,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 3,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM AAP Moderately Adventurous C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 19.496989,
+                                "3Y": 29.051262,
+                                "5Y": 49.583186,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 4,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM AAP Moderately Cautious C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 8.435684,
+                                "3Y": 15.630147,
+                                "5Y": 27.037739,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 5,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Adventurous C Acc",
+								"Focus": "Money Market",
+                                "Yield": 1.5,
+                                "1Y": 22.525248,
+                                "3Y": 33.720249,
+                                "5Y": 61.224883,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 6,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 7,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 8,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Emerging Markets Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 43.702938,
+                                "3Y": 12.200000,
+                                "5Y": 10.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 9,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM European (ex UK) Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 20.105101,
+                                "3Y": 10.200000,
+                                "5Y": 11.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 10,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Moderately Adventurous C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 11.105101,
+                                "3Y": 16.200000,
+                                "5Y": 20.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 1,
+                                "Fund": "7IM AAP Adventurous C Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 21.051114,
+                                "3Y": 31.467272,
+                                "5Y": 55.113164,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 2,
+								"Fund": "7IM AAP Balanced C Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.684609,
+                                "3Y": 20.666394,
+                                "5Y": 32.058166,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 3,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM AAP Moderately Adventurous C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 19.496989,
+                                "3Y": 29.051262,
+                                "5Y": 49.583186,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 4,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM AAP Moderately Cautious C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 8.435684,
+                                "3Y": 15.630147,
+                                "5Y": 27.037739,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 5,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Adventurous C Acc",
+								"Focus": "Money Market",
+                                "Yield": 1.5,
+                                "1Y": 22.525248,
+                                "3Y": 33.720249,
+                                "5Y": 61.224883,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 6,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 7,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 8,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Emerging Markets Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 43.702938,
+                                "3Y": 12.200000,
+                                "5Y": 10.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 9,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM European (ex UK) Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 20.105101,
+                                "3Y": 10.200000,
+                                "5Y": 11.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 10,
+								"Fund": "7IM Investment Funds|CFIM",
+                                "Group": "7IM Moderately Adventurous C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 11.105101,
+                                "3Y": 16.200000,
+                                "5Y": 20.252025,
+                                "Del_function": "Y"
+                } ],
+				 "discretePerformance": [{
+                                "Rank": 1,
+                                "Fund": "BPM Trust Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 21.051114,
+                                "3Y": 31.467272,
+                                "5Y": 55.113164,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 2,
+								"Fund": "Broadway ICVC Balanced",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.684609,
+                                "3Y": 20.666394,
+                                "5Y": 32.058166,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 3,
+								"Fund": "Broadway ICVC Growth",
+                                "Group": "7IM AAP Moderately Adventurous C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 19.496989,
+                                "3Y": 29.051262,
+                                "5Y": 49.583186,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 4,
+								"Fund": "BlackRock 100 UK Equity Tracker D Acc",
+                                "Group": "7IM AAP Moderately Cautious C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 8.435684,
+                                "3Y": 15.630147,
+                                "5Y": 27.037739,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 5,
+								"Fund": "Baring Targeted Return Gross Inc",
+                                "Group": "7IM Adventurous C Acc",
+								"Focus": "Money Market",
+                                "Yield": 1.5,
+                                "1Y": 22.525248,
+                                "3Y": 33.720249,
+                                "5Y": 61.224883,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 6,
+								"Fund": "BlackRock Sterling Strategic Bond D Acc",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 7,
+								"Fund": "BlackRock UK D Acc",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 8,
+								"Fund": "BlackRock US Dynamic D Acc",
+                                "Group": "7IM Emerging Markets Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 43.702938,
+                                "3Y": 12.200000,
+                                "5Y": 10.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 9,
+								"Fund": "BlackRock US Dynamic D Acc",
+                                "Group": "7IM European (ex UK) Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 20.105101,
+                                "3Y": 10.200000,
+                                "5Y": 11.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 10,
+								"Fund": "BlackRock US Dynamic D Acc",
+                                "Group": "7IM Moderately Adventurous C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 11.105101,
+                                "3Y": 16.200000,
+                                "5Y": 20.252025,
+                                "Del_function": "Y"
+                } ],
+				 "annualPerformance": [{
+                                "Rank": 1,
+                                "Fund": "CF IM UK Growth A Inc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 21.051114,
+                                "3Y": 31.467272,
+                                "5Y": 55.113164,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 2,
+								"Fund": "CF Lindsell Train UK Equity Acc",
+                                "Group": "7IM Investment Funds|CFIM",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.684609,
+                                "3Y": 20.666394,
+                                "5Y": 32.058166,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 3,
+								"Fund": "CF Miton Cautious Multi Asset B GBP",
+                                "Group": "7IM AAP Moderately Adventurous C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 19.496989,
+                                "3Y": 29.051262,
+                                "5Y": 49.583186,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 4,
+								"Fund": "CF Mulberry Inc",
+                                "Group": "7IM AAP Moderately Cautious C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 8.435684,
+                                "3Y": 15.630147,
+                                "5Y": 27.037739,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 5,
+								"Fund": "CF Purisima UK Total Return B PCG",
+                                "Group": "7IM Adventurous C Acc",
+								"Focus": "Money Market",
+                                "Yield": 1.5,
+                                "1Y": 22.525248,
+                                "3Y": 33.720249,
+                                "5Y": 61.224883,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 6,
+								"Fund": "CF Stewart Ivory Invest Mkt Acc",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Equity",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 7,
+								"Fund": "CF Waverton Portfolio B",
+                                "Group": "7IM Balanced C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 15.728494,
+                                "3Y": 22.04988,
+                                "5Y": 39.669263,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 8,
+								"Fund": "Charinco Common Invest Gr Acc",
+                                "Group": "7IM Emerging Markets Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 43.702938,
+                                "3Y": 12.200000,
+                                "5Y": 10.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 9,
+								"Fund": "Charity Multi Asset A Acc",
+                                "Group": "7IM European (ex UK) Equity Value C Inc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 20.105101,
+                                "3Y": 10.200000,
+                                "5Y": 11.252025,
+                                "Del_function": "Y"
+                }, {
+                                "Rank": 10,
+								"Fund": "Close Balanced Portfolio X Acc",
+                                "Group": "7IM Moderately Adventurous C Acc",
+								"Focus": "Mixed Asset",
+                                "Yield": 1.5,
+                                "1Y": 11.105101,
+                                "3Y": 16.200000,
+                                "5Y": 20.252025,
+                                "Del_function": "Y"
+                } ]
+}
